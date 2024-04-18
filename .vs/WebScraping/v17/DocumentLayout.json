@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\scraping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:scraping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\productspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:productspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|c:\\users\\heske\\documents\\projeto\\webscraping\\webscraping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T03:09:37.057Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSpec.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\ProductSpec.cs",
+              "RelativeDocumentMoniker": "ProductSpec.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\ProductSpec.cs",
+              "RelativeToolTip": "ProductSpec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:49:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductRepository.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\ProductRepository.cs",
+              "RelativeToolTip": "ProductRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwF0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:16:17.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scraping.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Scraping.cs",
+              "RelativeDocumentMoniker": "Scraping.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Scraping.cs",
+              "RelativeToolTip": "Scraping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:48:30.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:40:19.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:45:06.903Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
