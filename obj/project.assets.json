@@ -1895,11 +1895,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\WebScraping.csproj",
+      "projectUniqueName": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\WebScraping.csproj",
       "projectName": "WebScraping",
-      "projectPath": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\WebScraping.csproj",
+      "projectPath": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\WebScraping.csproj",
       "packagesPath": "C:\\Users\\heske\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\obj\\",
+      "outputPath": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\heske\\AppData\\Roaming\\NuGet\\NuGet.Config",

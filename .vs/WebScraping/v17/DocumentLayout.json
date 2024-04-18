@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\",
+  "WorkspaceRootPath": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\scraping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|c:\\users\\heske\\documents\\projeto\\webscraping\\nova pasta\\scraping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:scraping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\productspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:productspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|c:\\users\\heske\\documents\\projeto\\webscraping\\webscraping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\productspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B58CA4-1809-4338-9307-8DC0D7598F5E}|WebScraping.csproj|solutionrelative:productspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Form1.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAswEYAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAWwPUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T03:09:37.057Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductSpec.cs",
-              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\ProductSpec.cs",
-              "RelativeDocumentMoniker": "ProductSpec.cs",
-              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\ProductSpec.cs",
-              "RelativeToolTip": "ProductSpec.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:49:50.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ProductRepository.cs",
-              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\ProductRepository.cs",
-              "RelativeToolTip": "ProductRepository.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAwwF0AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:16:17.977Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Scraping.cs",
-              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Scraping.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\Scraping.cs",
               "RelativeDocumentMoniker": "Scraping.cs",
-              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Scraping.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\Scraping.cs",
               "RelativeToolTip": "Scraping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowC8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T05:48:30.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductSpec.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\ProductSpec.cs",
+              "RelativeDocumentMoniker": "ProductSpec.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\ProductSpec.cs",
+              "RelativeToolTip": "ProductSpec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:49:50.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductRepository.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\ProductRepository.cs",
+              "RelativeToolTip": "ProductRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowF0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:16:17.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DatabaseHelper.cs",
-              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "DatabaseHelper.cs",
-              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\DatabaseHelper.cs",
               "RelativeToolTip": "DatabaseHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAtwGAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T05:40:19.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\WebScraping\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\heske\\Documents\\PROJETO\\WebScraping\\Nova pasta\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T05:45:06.903Z",

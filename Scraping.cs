@@ -20,6 +20,8 @@ namespace WebScraping
 
             int productNumber = 0;
 
+            int prodId = 1;
+
             while (true)
             {
                 // Construir o URL da página atual
@@ -39,7 +41,6 @@ namespace WebScraping
                 // Verificar se foram encontrados produtos
                 if (productNodes != null)
                 {
-                    int prodId = 1;
                     // Iterar sobre os elementos dos produtos e extrair os dados relevantes
                     foreach (var productNode in productNodes)
                     {
@@ -69,8 +70,6 @@ namespace WebScraping
 
                 // Avançar para a proxima página
                 pageNumber++;
-                break;
-
             }
 
             return products;
