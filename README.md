@@ -6,7 +6,7 @@ Este projeto consiste em uma aplicação de web scraping que utiliza o HtmlAgili
 
 ## Demonstrativo (vídeo)
 
-🎥 [Assista ao vídeo da demo no LinkedIn](./plublic/demo.png)](https://www.linkedin.com/posts/igor-barcelo-631010216_webscraping-dotnet-datascience-activity-7186848754765815809-JiLw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZ2dIUBHlgJEC2FKQkSO200hlfncqexis4)
+🎥 [![Assista à demo](./public/demo.png)](https://www.linkedin.com/posts/igor-barcelo-631010216_webscraping-dotnet-datascience-activity-7186848754765815809-JiLw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZ2dIUBHlgJEC2FKQkSO200hlfncqexis4)
 
 
 ## Pré-requisitos de Instalação
