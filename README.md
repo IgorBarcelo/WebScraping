@@ -5,7 +5,7 @@ Este projeto consiste em uma aplicação de web scraping que utiliza o HtmlAgili
 - Site do scraping: https://www.tbca.net.br/base-dados/composicao_estatistica.php?pagina=1&atuald=1#
 
 ## 📸 Demonstrativo (vídeo)
-<a hfer="https://www.linkedin.com/posts/igor-barcelo-631010216_webscraping-dotnet-datascience-activity-7186848754765815809-JiLw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZ2dIUBHlgJEC2FKQkSO200hlfncqexis4">Link</a>
+<a href="https://www.linkedin.com/posts/igor-barcelo-631010216_webscraping-dotnet-datascience-activity-7186848754765815809-JiLw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZ2dIUBHlgJEC2FKQkSO200hlfncqexis4">Link</a>
 <div data-badges>
 <img src="https://github.com/IgorBarcelo/WebScraping/blob/main/public/demo.png?raw=true" width="450" />
 </div>
