@@ -4,10 +4,10 @@
 Este projeto consiste em uma aplicação de web scraping que utiliza o HtmlAgilityPack para extrair dados de páginas da web, armazenando esses dados em um banco de dados MySQL. As informações são organizadas em duas classes principais: Product e ProductSpec. O Dapper é utilizado para a comunicação com o banco de dados, facilitando a inserção, atualização e recuperação dos dados. A interface do usuário é construída em um aplicativo Windows Forms, com a exibição dos dados feita através de DataGridViews e botões de edição para manipulação dos registros.
 - Site do scraping: https://www.tbca.net.br/base-dados/composicao_estatistica.php?pagina=1&atuald=1#
 
-## Demonstrativo (vídeo)
+## 📸 Demonstrativo (vídeo)
 <a hfer="https://www.linkedin.com/posts/igor-barcelo-631010216_webscraping-dotnet-datascience-activity-7186848754765815809-JiLw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZ2dIUBHlgJEC2FKQkSO200hlfncqexis4">Link</a>
 <div data-badges>
-📸 <img src="https://github.com/IgorBarcelo/WebScraping/blob/main/public/demo.png?raw=true)](" width="350" />
+<img src="https://github.com/IgorBarcelo/WebScraping/blob/main/public/demo.png?raw=true" width="450" />
 </div>
 
 ## Pré-requisitos de Instalação
